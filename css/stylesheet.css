@@ -536,6 +536,9 @@ del{
 .section4-p{
     margin-left: 30%;
 }
+.section5-div1{
+    margin-top: -20px;
+}
 .section5-title{
   margin-top: 10px;
 }
@@ -619,7 +622,7 @@ z-index: 0;
 gap: 20px;
 justify-content: center;
 align-items: center;
-margin-top: 40px;
+margin-top: 25px;
 }
 .latest-section5{
     width: 350px;
